@@ -1,4 +1,4 @@
-####在Raywenderlich上又两篇关于MVVM的文章，这里是[MVVM Tutorial with ReactiveCocoa: Part 1/2](http://www.raywenderlich.com/74106/mvvm-tutorial-with-reactivecocoa-part-1)####
+####在Raywenderlich上有两篇关于MVVM的文章，这里是[MVVM Tutorial with ReactiveCocoa: Part 1/2](http://www.raywenderlich.com/74106/mvvm-tutorial-with-reactivecocoa-part-1)####
 
 > 我基本上把每行代码都加上了注释，也将part1中用不到的相关文件都删除了。方便学习。
 
